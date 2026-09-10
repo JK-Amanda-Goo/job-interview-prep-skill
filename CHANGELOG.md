@@ -2,6 +2,11 @@
 
 All notable changes to this project are documented here. Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.1.1] - 2026-09-10
+
+### Fixed
+- `.gitignore` was matching `references/running-the-mock.md` with its `*-mock.md` pattern (intended only to catch personal mock transcripts landing at the repo root), so that reference file was missing from the v0.1.0 tag. Scoped the patterns to `mock-*.md` / `session-*.md` and restored the file.
+
 ## [0.1.0] - 2026-09-10
 
 ### Added
