@@ -19,12 +19,12 @@ workspace/
 *.docx
 *.doc
 
-# Common accidents
+# Common accidents (personal mock transcripts / drafts landing at the repo root)
 context.md
 my-*.md
 draft*.md
-*-session.md
-*-mock.md
+mock-*.md
+session-*.md
 *.local.md
 
 .DS_Store
