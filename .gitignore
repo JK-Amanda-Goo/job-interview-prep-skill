@@ -1,0 +1,30 @@
+# Personal data must never be committed.
+#
+# The skill keeps your resume, career context, and past mock-interview sessions
+# in a workspace outside this repo (~/job-interview-prep/ by default, or it
+# reuses ~/job-application-answers/profile/). These rules are a second line of
+# defense in case anything lands here by accident.
+
+profile/
+sessions/
+answers/
+intros/
+workspace/
+
+# Resume / personal documents in any form
+*resume*
+*résumé*
+*cv*
+*.pdf
+*.docx
+*.doc
+
+# Common accidents
+context.md
+my-*.md
+draft*.md
+*-session.md
+*-mock.md
+*.local.md
+
+.DS_Store
