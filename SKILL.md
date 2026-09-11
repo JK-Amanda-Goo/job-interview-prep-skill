@@ -142,6 +142,7 @@ After the last question, write the full assessment. This is the deliverable the 
 - **Patterns across answers.** The recurring tells — buries the answer, no numbers, "we" instead of "I", one story reused three times, runs long, doesn't land the "why this company" — that a single-answer note wouldn't catch.
 - **Prep actions before the real interview.** Specific and few. "Rewrite the [X] story with the number and your decision in the first two sentences" beats "work on structure."
 - **Questions to ask the interviewer.** Three or four, tailored to this round and this interviewer — the kind that show they've thought about the company, not filler.
+- **A one-line closing appeal.** The last thing in the debrief. One sentence they could actually say near the end of *this* interview (or reuse in a follow-up thank-you note) that names the specific fit between them and the role — built from what actually landed in their answers this round, not a generic enthusiasm line. See `references/feedback-rubric.md` for how to derive it.
 
 ## Step 7 — Archive
 

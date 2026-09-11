@@ -2,6 +2,11 @@
 
 All notable changes to this project are documented here. Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.1.2] - 2026-09-11
+
+### Added
+- Debrief now ends with a **one-line closing appeal**: a single spoken sentence the user could actually say near the end of the real interview (or reuse in a follow-up note), naming the specific role fit that showed the most signal *in that mock session* — not a from-scratch elevator pitch off the whole resume. Documented in `SKILL.md` Step 6 and as its own section in `references/feedback-rubric.md`, with guidance to anchor it to a concrete detail from an actual answer and run it through the same spoken-register checks as the video-intro skill's close. Prompted by real use on a Tenex "Senior AI Strategist" screen.
+
 ## [0.1.1] - 2026-09-10
 
 ### Fixed

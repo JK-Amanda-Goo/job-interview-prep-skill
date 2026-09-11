@@ -67,5 +67,18 @@ The written deliverable. Structure it as:
 - **Patterns across answers** — the recurring tells a single-answer note misses (buries the answer, no numbers, "we" not "I", one story reused, runs long, flat "why us").
 - **Prep actions** — few and specific. "Rewrite the [X] story so the decision and the number are in the first two sentences" beats "work on structure."
 - **Questions to ask the interviewer** — three or four, tailored to this round and interviewer.
+- **A one-line closing appeal** — see below.
 
 If a `<name>-voice` skill exists, write the debrief through it — it should read like a straight note from a friend who watched the interview, not a form.
+
+## The closing appeal
+
+The last thing in the debrief, and its own kind of output — not another prep action. One sentence the person could actually say near the end of *this specific interview* (when asked "anything else you want to add?" or as the last line before goodbyes), or fold into a same-day follow-up note. It names the fit between them and the role in a single breath.
+
+**Derive it from the mock, not from the resume.** Pull the fit point that showed the most signal in *this session* — usually whichever item under "What came through" landed hardest, or the moment an answer connected a real thing they've done to one of the JD's real requirements without you having to explain the connection. Don't synthesize a from-scratch elevator pitch off their whole career; that's what the "why us" answer skill is for, and it produces something too generic to feel earned by this specific conversation.
+
+**One sentence, plain register, no hedging.** This is spoken, so run it through the same ear as a video-intro close (`job-application-video-intro-script`'s spoken-not-written checks apply): no "I believe I would be a strong fit for this position" — say the specific thing plainly. E.g., for an ops-and-AI-fluency screen: *"That gap you're describing between the pilot and the actual workflow — that's the exact gap I closed at Sendbird twice, so I'd want to keep talking."* Not: *"I'm confident my background makes me a great fit for this AI Strategist role."*
+
+**Anchor it to something concrete from their answer** — a company, a workflow, a number, a tool they use daily — tied directly to the specific requirement it answers, not a mashup of the whole resume.
+
+**Say why it's the right note to end the debrief on** in a short line before or after it — what it's doing for them (e.g., "this is the connection Brett didn't have to be told twice, worth landing explicitly since the round is short and he won't dig for it himself").
